@@ -2,4 +2,4 @@
 
 ## Fall 2023
 
-- 8/28/2023 Pamela Brauda 
+- 9/7/2023 Marisabine Burgos 
